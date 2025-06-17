@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nzrsky-simctl-mcp-server-badge.png)](https://mseep.ai/app/nzrsky-simctl-mcp-server)
+
 # SimCtl MCP Server
 
 A Model Context Protocol (MCP) server that provides structured access to iOS Simulator management via `xcrun simctl` commands.
